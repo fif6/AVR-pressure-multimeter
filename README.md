@@ -7,9 +7,9 @@ Universal multimeter for measuring absolute and differential gas pressure
 ![pcb2](/winstar-LCD-PCB-template.gif)
 
 ## Atmega328p pinout
-Pin 32: PD2 - R/W;
-Pin 31: PD1 - E;
-Pin 30: PD0 - RS;
+- Pin 32: PD2 - R/W;
+- Pin 31: PD1 - E;
+- Pin 30: PD0 - RS;
 Pin 28: PC5 - DB5;
 Pin 27: PC4 - DB4;
 Pin 26: PC3 - DB6;
